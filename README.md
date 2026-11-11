@@ -1,5 +1,7 @@
 # Chinook data warehouse — dimensional model + ETL
 
+> Built by Evan Gilb, with Claude as an AI coding partner.
+
 A star schema built on top of the [Chinook sample database](https://github.com/lerocha/chinook-database),
 with an **incremental, idempotent ETL pipeline** that loads it — the kind of build an
 analytics/BI engineer owns end to end.
